@@ -1,1 +1,1 @@
-export { default } from './src/CommonInput.vue'
+export { default } from './VueNiceInput.vue';
