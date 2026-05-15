@@ -2,6 +2,7 @@
   "name": "@vuenice/input",
   "version": "0.1.1",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "description": "Vue 3 Input component with validation and custom styling.",
   "homepage": "https://github.com/vuenice/input",
   "keywords": [
